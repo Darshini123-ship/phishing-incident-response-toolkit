@@ -1,0 +1,7 @@
+phishing-incident-response-toolkit/
+│
+├── scripts/
+│   └── email_header_parser.py
+├── samples/
+│   └── sample_header.txt
+└── README.md
